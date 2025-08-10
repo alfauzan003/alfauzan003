@@ -3,8 +3,8 @@
 
 <br>
 
-- 🔧 I'm currently final year student at Information System Major
-- 🌱 I'm constantly learning and exploring new technologies to stay updated in the ever-evolving tech landscape.
+-   🔧 I'm currently final year student at Information System Major
+-   🌱 I'm constantly learning and exploring new technologies to stay updated in the ever-evolving tech landscape.
 
 ### 🛠️ Technologies & Tools
 
@@ -59,12 +59,7 @@
     </a>
 </p>
 
-
-
-
 ### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfauzan003&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfauzan003&layout=compact&theme=dracula)](https://github.com/alfauzan003)
 
